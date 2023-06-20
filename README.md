@@ -18,7 +18,7 @@ Site complexo fitness Metamorfose
 - CSS
 - React.js
 - Figma
-- 
+
 ## Autor
 
 [@jefschlarski](https://www.linkedin.com/in/jeferson-schlarski-422b3818a/)
